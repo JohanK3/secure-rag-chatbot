@@ -1,4 +1,4 @@
-# my-ai-app
+# Secure Rag Chatbot
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
